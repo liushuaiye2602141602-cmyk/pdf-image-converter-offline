@@ -1,0 +1,6 @@
+PySide6
+PyMuPDF
+Pillow
+img2pdf
+pypdf
+pyinstaller
