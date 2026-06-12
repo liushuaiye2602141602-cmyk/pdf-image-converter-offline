@@ -4,6 +4,19 @@ PDF Image Converter Offline is a local Windows tool for PDF and image conversion
 
 PDF Image Converter Offline 是一个本地运行的 PDF / 图片转换工具，适合办公室日常使用。支持图片转 PDF、PDF 转图片、图片格式转换、PDF 合并、PDF 拆分、页面提取和页面删除。
 
+## Download | 下载
+
+Prebuilt Windows packages are available in GitHub Releases.
+
+成品 Windows 压缩包请在 GitHub Releases 中下载。
+
+Available packages:
+
+* PDFImageConverter-Win10-Win11-v1.0.zip — Desktop version for Windows 10 / Windows 11.
+* PDFImageConverter-Web-Win7-v1.0.zip — Local web version for Windows 7. Run the exe and open http://127.0.0.1:8765.
+
+注意：下载 zip 后必须先完整解压，再运行 exe。不要只复制单独 exe。
+
 ## Features | 功能
 
 * Image to PDF | 图片转 PDF
